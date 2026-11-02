@@ -25,8 +25,8 @@ Systems-focused developer crafting **high-performance Rust crates** and **native
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=serdarvaran&show_icons=true&theme=tokyonight&hide_border=true" alt="Serdar's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serdarvaran&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="profile/stats.svg" alt="Serdar's GitHub Stats" />
+  <img src="profile/top-langs.svg" alt="Top Languages" />
 </p>
 
 ---
